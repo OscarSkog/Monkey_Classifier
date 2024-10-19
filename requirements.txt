@@ -2,4 +2,7 @@ voila
 numpy
 pandas
 scikit-learn
-# Add any other libraries you are using in your notebook
+fastai==2.7.12  # Adjust as necessary
+torch==1.13.1   # Adjust as necessary
+Pillow
+ipywidgets
