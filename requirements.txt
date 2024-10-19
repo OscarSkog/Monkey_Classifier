@@ -1,8 +1,9 @@
-voila
-numpy
-pandas
-scikit-learn
-fastai==2.7.12  # Adjust as necessary
-torch==1.13.1   # Adjust as necessary
-Pillow
+fastai>=2.0.0
+graphviz
 ipywidgets
+matplotlib
+nbdev>=0.2.12
+pandas
+scikit_learn
+azure-cognitiveservices-search-imagesearch
+sentencepiece
